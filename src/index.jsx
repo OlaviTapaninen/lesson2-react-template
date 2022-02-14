@@ -1,4 +1,4 @@
-/******** DO NOT DELETE THESE LINES ********/
+/******** DO NOT DELETE THESE LINES *******/
 
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
